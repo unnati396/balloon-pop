@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "Balloon Pop",
+    "slug": "balloon-pop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#87CEEB"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,11 +22,12 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#87CEEB"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
     }
-  }
+  },
+  "homepage": "https://unnati396.github.io/balloon-pop"
 }
