@@ -1,0 +1,9 @@
+{
+  "background_color": "#87CEEB",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Balloon Pop",
+  "short_name": "Balloon Pop",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

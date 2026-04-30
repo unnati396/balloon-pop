@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/balloon-pop/static/js/main.3e65562f.js",
+    "static/js/224.e47f3a92.js": "/balloon-pop/static/js/224.e47f3a92.js",
+    "favicon.ico": "/balloon-pop/favicon.ico",
+    "static/media/pop.mp3": "/balloon-pop/static/media/pop.ac12e77c47bb1786d5d8.mp3",
+    "index.html": "/balloon-pop/index.html",
+    "favicon-32.png": "/balloon-pop/favicon-32.png",
+    "favicon-16.png": "/balloon-pop/favicon-16.png",
+    "manifest.json": "/balloon-pop/manifest.json",
+    "serve.json": "/balloon-pop/serve.json",
+    "main.3e65562f.js.map": "/balloon-pop/static/js/main.3e65562f.js.map",
+    "224.e47f3a92.js.map": "/balloon-pop/static/js/224.e47f3a92.js.map"
+  },
+  "entrypoints": [
+    "static/js/224.e47f3a92.js",
+    "static/js/main.3e65562f.js"
+  ]
+}
